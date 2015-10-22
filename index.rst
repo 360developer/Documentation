@@ -6,10 +6,18 @@
 Welcome to 360dialog documentation!
 ===================================
 
+Here you will find the description about all the different parts of the platform, a starting point to how to start with 360Dialog solution, from the creating of the Segments to how to send a Dialog, Push Notification or Overlay.
+
+Part of the documentation is:
+* :ref:`integration-docs`
+
 Contents:
 
+.. _integration-docs:
+
 .. toctree::
-  :name: nomastertoc
+  :maxdepth: 2
+  :caption: Integration Documentation
 
   Android SDK
   iOS SDK
