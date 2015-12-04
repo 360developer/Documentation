@@ -16,7 +16,7 @@ Contents:
 .. _integration-docs:
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 3
   :caption: Integration Documentation
 
   Android SDK
